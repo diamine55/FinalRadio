@@ -15,7 +15,7 @@ public class ArtistInfo {
 	private ArrayList<String> listOfSongs;
 	private String songSelected;
 	Statement stmt = null;
-
+//lol
 	public ArtistInfo(String artist) {
 		artistName = artist;
 
