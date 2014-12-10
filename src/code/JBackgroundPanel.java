@@ -37,7 +37,7 @@ public class JBackgroundPanel extends JPanel {
 
 		try {
 			music = ImageIO.read(this.getClass().getResource(
-					"/Images/music.png"));
+					"/Images/Music.png"));
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
